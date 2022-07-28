@@ -1,0 +1,6 @@
+html{
+    background-color: rgb(56, 134, 56);
+    font-family: 'Edu TAS Beginner', cursive;
+    display: flex;
+    justify-content: center;
+}
