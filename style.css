@@ -4,3 +4,9 @@ html{
     display: flex;
     justify-content: center;
 }
+input{
+    margin-top: 50px;
+    width: 80vh;
+    height: 25px;
+    box-shadow: 4px 4px 4px;
+}
